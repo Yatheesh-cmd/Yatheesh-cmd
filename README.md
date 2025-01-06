@@ -27,6 +27,9 @@ Node.js 🖥
 📞 CONTACT ME
 
 📧 Email: yatheeshvv@example.com
+
 🔗 LinkedIn: linkedin.com/in/yatheesh-v
-💻 Portfolio: yatheesh-cmd.github.io/MY-Portfolio/ 💻
+
+💻 Portfolio: yatheesh-cmd.github.io/MY-Portfolio/ 
+
 📱 Phone: +91-6238932825
