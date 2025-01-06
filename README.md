@@ -1,4 +1,3 @@
----
 
 👨‍💻 𝗬𝗔𝗧𝗛𝗘𝗘𝗦𝗛 𝗩
 🌟 MERN Stack Intern
@@ -21,13 +20,9 @@ React ⚛
 
 Node.js 🖥
 
-
 📈 Committed to delivering innovative solutions that exceed expectations.
 
-
----
-
-📞 🅲🅾🅽🆃🅰🅲🆃 🅼🅴
+📞 CONTACT ME
 📧 Email: yatheeshvv@example.com
 🔗 LinkedIn: linkedin.com/in/yatheesh-v
 💻 Portfolio: yatheesh-cmd.github.io/MY-Portfolio/ 💻
